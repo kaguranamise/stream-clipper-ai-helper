@@ -1,0 +1,14 @@
+pyproject.toml
+stream_clipper/__init__.py
+stream_clipper/analyzer.py
+stream_clipper/cli.py
+stream_clipper/pipeline.py
+stream_clipper/reader.py
+stream_clipper/video.py
+stream_clipper.egg-info/PKG-INFO
+stream_clipper.egg-info/SOURCES.txt
+stream_clipper.egg-info/dependency_links.txt
+stream_clipper.egg-info/entry_points.txt
+stream_clipper.egg-info/requires.txt
+stream_clipper.egg-info/top_level.txt
+tests/test_pipeline.py

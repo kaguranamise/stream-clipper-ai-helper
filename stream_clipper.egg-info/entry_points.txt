@@ -1,0 +1,2 @@
+[console_scripts]
+stream-clipper = stream_clipper.cli:main

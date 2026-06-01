@@ -1,0 +1,19 @@
+# Python 関連キャッシュ
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+
+# テスト用の一時アセット・生成された切り抜き動画
+tests/test_chat.csv
+tests/test_chat.json
+tests/test_video.mp4
+tests/output_test/
+tests/output_cli/
+output/
+
+# OS 関連の一時ファイル
+.DS_Store
+Thumbs.db
